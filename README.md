@@ -1,6 +1,6 @@
-<h1> Sales data </h1>
+<h1> Sales data project  </h1>
 
-<b>3 Step project</b>
+<b>3 projects</b>
 
 1- Data Pipeline Automation – Built an automated data ingestion and transformation pipeline using Python and SQL on AWS S3 and EC2.
 
